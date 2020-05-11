@@ -1,0 +1,2 @@
+rootProject.name='Udemy_SayiTahminUygulamasi'
+include ':app'
